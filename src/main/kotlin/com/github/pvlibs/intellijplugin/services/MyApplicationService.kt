@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pvlibs.intellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pvlibs.intellijplugin.MyBundle
 
 class MyApplicationService {
 
